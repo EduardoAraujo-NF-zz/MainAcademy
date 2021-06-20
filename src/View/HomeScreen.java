@@ -176,7 +176,7 @@ public class HomeScreen extends javax.swing.JInternalFrame {
                 .addGap(30, 30, 30))
         );
 
-        jMenu1.setText("File");
+        jMenu1.setText("Editar");
 
         jMenuItem1.setText("Alterar Matéria");
         jMenuItem1.addActionListener(new java.awt.event.ActionListener() {

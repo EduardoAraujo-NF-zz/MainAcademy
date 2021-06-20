@@ -298,7 +298,7 @@ public class AddPeriodoScreen extends javax.swing.JInternalFrame {
                 .addGap(85, 85, 85))
         );
 
-        jMenu5.setText("File");
+        jMenu5.setText("Editar");
 
         jMenuItem1.setText("Alterar Matéria");
         jMenuItem1.addActionListener(new java.awt.event.ActionListener() {
